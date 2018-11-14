@@ -1,7 +1,8 @@
 {
-  "css/app.css": "css/app-e0b1ec508b.css",
+  "css/app.css": "css/app-7eeaaef1c0.css",
   "fonts/stackyard.ttf": "fonts/stackyard-6cec887526.ttf",
   "images/blog/bamboo.jpg": "images/blog/bamboo-c3dc17d836.jpg",
+  "images/blog/bamboosinglepage.jpg": "images/blog/bamboosinglepage-939503d8af.jpg",
   "images/blog/worldofturbans.jpg": "images/blog/worldofturbans-4fbf0444b1.jpg",
   "images/global/blog-header-imagex1.jpg": "images/global/blog-header-imagex1-4a4478c0e7.jpg",
   "images/global/blog-header-imagex2.jpg": "images/global/blog-header-imagex2-4295d1216e.jpg",
@@ -45,6 +46,7 @@
   "images/global/promotionBg.jpg": "images/global/promotionBg-ac03bcc5e9.jpg",
   "images/global/promotionBg.png": "images/global/promotionBg-1de7905602.png",
   "images/global/sale-header-imagex1.jpg": "images/global/sale-header-imagex1-f326507949.jpg",
+  "images/global/search-icon.png": "images/global/search-icon-eb6e4dd954.png",
   "images/global/shop-header-imagex1.jpg": "images/global/shop-header-imagex1-21c0fdef45.jpg",
   "images/global/shop-header-imagex2.jpg": "images/global/shop-header-imagex2-dfde9be874.jpg",
   "images/global/shopnowone.jpg": "images/global/shopnowone-da88959ccb.jpg",
@@ -67,6 +69,6 @@
   "images/v-products/vturban1.png": "images/v-products/vturban1-a9853c884a.png",
   "images/v-products/vturban2.png": "images/v-products/vturban2-8b177cf7a5.png",
   "images/v-products/vturban3.png": "images/v-products/vturban3-404e504e6d.png",
-  "js/app.js": "js/app-f008ed87efb0090452ba.js",
-  "js/face.js": "js/face-f008ed87efb0090452ba.js"
+  "js/app.js": "js/app-5972e673c87d5cf87d0c.js",
+  "js/face.js": "js/face-5972e673c87d5cf87d0c.js"
 }
